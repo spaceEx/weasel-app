@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <string name="title">Exploration of Mars</string>
+  <string name="subtitle"></string>
+  <string name="paragraph1"></string>
+
+  <string name="image_caption">A 360 of mars</string>
+
+  <string name="paragraph2">
+  </string>
+
+  <string name="source">&lt;/a></string>
+</resources>
